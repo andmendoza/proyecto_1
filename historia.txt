@@ -6,4 +6,5 @@ fg
 dfgdfgdfg
 dfgdfggd
 fgd
-fg
+fg 
+probando comandos
