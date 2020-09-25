@@ -10,3 +10,6 @@ fg
 probando comandos
 estamos probando tercer commit
 estamos aprendiendo git 
+
+
+configurando git
