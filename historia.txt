@@ -13,3 +13,5 @@ estamos aprendiendo git
 
 
 configurando git
+
+corrigiendo errores
